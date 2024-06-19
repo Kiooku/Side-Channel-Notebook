@@ -64,14 +64,14 @@ Invasive attacks are more powerful than SCA, but more expensive because they req
 >
 > However, if I find practical labs for certain attacks, I'll link to those resources as well.
 
-- **Timing Attacks** []
-- **Website Fingerprinting** []
-- **Cache Attacks** []
-- **Spectre** []
-- **Meltdown** []
-- **Rowhammer** []
-- **ASLR Bypasses** []
-- **CPU Fuzzing** []
+- [ ] **Timing Attacks**
+- [ ] **Website Fingerprinting**
+- [ ] **Cache Attacks**
+- [ ] **Spectre**
+- [ ] **Meltdown**
+- [ ] **Rowhammer**
+- [ ] **ASLR Bypasses**
+- [ ] **CPU Fuzzing**
 
 # Web Resources
 
