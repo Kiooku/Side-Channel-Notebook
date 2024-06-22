@@ -1,0 +1,3 @@
+[submodule "ResourcesNotDirectlyRelatedToSCA/539kernel"]
+	path = ResourcesNotDirectlyRelatedToSCA/539kernel
+	url = https://github.com/Kiooku/539kernel.git
