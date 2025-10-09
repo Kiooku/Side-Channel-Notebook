@@ -1,3 +1,6 @@
 [submodule "ResourcesNotDirectlyRelatedToSCA/539kernel"]
 	path = ResourcesNotDirectlyRelatedToSCA/539kernel
 	url = https://github.com/Kiooku/539kernel.git
+[submodule "Analyse_Developpement_Logiciel_SCA"]
+	path = Analyse_Developpement_Logiciel_SCA
+	url = git@github.com:Kiooku/Analyse_Developpement_Logiciel_SCA.git
