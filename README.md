@@ -90,6 +90,7 @@ Invasive attacks are more powerful than SCA, but more expensive because they req
 # Book Resources
 
 - [The Hardware Hacking Book - *Breaking Embedded Security with Hardware Attacks*](https://nostarch.com/hardwarehacking)
+- [Sécurité matérielle des systèmes - Vulnérabilité des processeurs et techniques d’exploitation](https://www.dunod.com/sciences-techniques/securite-materielle-systemes-vulnerabilite-processeurs-et-techniques-d)
 
 # Resources not directly related to SCA but useful/necessary for understanding certain concepts/attacks
 
