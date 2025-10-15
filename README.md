@@ -86,6 +86,7 @@ Invasive attacks are more powerful than SCA, but more expensive because they req
 |                                        [Root-me](https://root-me.org/)                                        |                                                CTF                                               |        Root-Me        |
 |                                [CryptoHack](cryptohack.org/)                                                  |                                                CTF                                               |      CryptoHack       |
 |                       [ASCAD](https://github.com/ANSSI-FR/ASCAD) *(ANSSI SCA Database)*                       |                                    Databases / Trained models                                    |         ANSSI         |
+| [COSIC (Computer Security and Industrial Cryptography)](https://www.youtube.com/@cosicbe/videos) |  Seminar / Workshop / Summer School | Theory / Video |                 
 
 # Book Resources
 
