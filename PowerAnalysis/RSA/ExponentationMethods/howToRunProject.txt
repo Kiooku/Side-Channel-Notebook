@@ -1,0 +1,21 @@
+Avec CMAKE:
+- cmake -S . -B out
+- cmake --build out --target ProjetCryptoAvancee --config Release
+
+=================================================================
+
+Le plus simple, avec make:
+- Pour exécuter avec openmp
+   - make openmp
+   - make build
+
+- Pour exécuter sans openmp
+   - make no-openmp
+   - make build
+
+- Pour tout nettoyer
+   - make clean
+
+- Reconfigurer et rebuild avec OpenMP activé
+   - make rebuild
+

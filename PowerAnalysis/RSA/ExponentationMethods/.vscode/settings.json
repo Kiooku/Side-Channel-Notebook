@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "exponentation.h": "c",
+        "__locale": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
