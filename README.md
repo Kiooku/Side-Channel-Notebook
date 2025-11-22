@@ -78,15 +78,26 @@ Invasive attacks are more powerful than SCA, but more expensive because they req
 |                                                    **Name**                                                   |                                             **Type**                                             |       **Source**      |
 |:-------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------:|
 |              [Side Channel Security](https://www.youtube.com/@SideChannelSecurity) *(All Season)*             |                                              Theory                                              |        TU Graz        |
-| [Coursebook for attack on Implementation](https://orenlab.sise.bgu.ac.il/AttacksonImplementationsCourseBook/) | Theory / [Lab](https://github.com/Yossioren/AttacksonImplementationsCourseBook/tree/master/Labs) | Ben-Gurion University |
-|                              [Secure Hardware Design](https://shd.mit.edu/2024/)                              |                 Theory / [Lab](https://github.com/CSAIL-Arch-Sec/SHD-StarterCode)                |          MIT          |
+|              [Side-Channel Security – Materials (2025)](https://www.isec.tugraz.at/teaching/materials/scs/slides/)            |                                              Theory / Lectures                                   |        TU Graz        |
+| [Coursebook for attack on Implementation](https://orenlab.sise.bgu.ac.il/AttacksonImplementationsCourseBook/) | Theory / [Labs](https://github.com/Yossioren/AttacksonImplementationsCourseBook/tree/master/Labs) | Ben-Gurion University |
+|                              [Secure Hardware Design](https://shd.mit.edu/2025/)                              |                 Theory / [Lab](https://github.com/CSAIL-Arch-Sec/SHD-StarterCode)                |          MIT          |
+| [Sécurité matérielle _(L’interface matériel/logiciel)_](https://ronan.lashermes.0nline.fr/courses/poly_AHP.pdf) | Theory / [Labs](https://gitlab.com/hardsec) | Université de Rennes |
 |                               [Hackropole](https://hackropole.fr/fr/challenges/)                              |                                                CTF                                               |         ANSSI         |
 |                                        [Root-me](https://root-me.org/)                                        |                                                CTF                                               |        Root-Me        |
+|                                [CryptoHack](cryptohack.org/)                                                  |                                                CTF                                               |      CryptoHack       |
 |                       [ASCAD](https://github.com/ANSSI-FR/ASCAD) *(ANSSI SCA Database)*                       |                                    Databases / Trained models                                    |         ANSSI         |
+| [COSIC (Computer Security and Industrial Cryptography)](https://www.youtube.com/@cosicbe/videos) |  Seminar / Workshop / Summer School | Theory / Video |      
+| [OpenSecurityTraining2](https://opensecuritytraining.info/Home.html) |  Courses | Theory |      
+| [Intel SGX Explained](https://eprint.iacr.org/2016/086.pdf) |  Theory | Paper _(118 pages)_ |
+| [The Dead Drop lab](https://drive.google.com/drive/folders/1eRkmi6ZYTaWsAXcA7UY11z2spBqx1454) |  Lab | UIUC |
+| [MAD (micro-architecture attacks and defenses) Tutorial](https://sites.google.com/view/mad-isca22) | Theory / [Labs](https://github.com/jprx/mad22-labs) | ISCA 2022 |
 
 # Book Resources
 
 - [The Hardware Hacking Book - *Breaking Embedded Security with Hardware Attacks*](https://nostarch.com/hardwarehacking)
+- [Sécurité matérielle des systèmes - Vulnérabilité des processeurs et techniques d’exploitation](https://www.dunod.com/sciences-techniques/securite-materielle-systemes-vulnerabilite-processeurs-et-techniques-d)
+- [Principles of Secure Processor Architecture Design](https://link.springer.com/book/10.1007/978-3-031-01760-5)
+- [Security Basics for Computer Architects](https://caslab.io/books/processor-security/Szefer_Sample.pdf)
 
 # Resources not directly related to SCA but useful/necessary for understanding certain concepts/attacks
 
