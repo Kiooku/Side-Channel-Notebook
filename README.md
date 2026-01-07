@@ -91,6 +91,8 @@ Invasive attacks are more powerful than SCA, but more expensive because they req
 | [Intel SGX Explained](https://eprint.iacr.org/2016/086.pdf) |  Theory | Paper _(118 pages)_ |
 | [The Dead Drop lab](https://drive.google.com/drive/folders/1eRkmi6ZYTaWsAXcA7UY11z2spBqx1454) |  Lab | UIUC |
 | [MAD (micro-architecture attacks and defenses) Tutorial](https://sites.google.com/view/mad-isca22) | Theory / [Labs](https://github.com/jprx/mad22-labs) | ISCA 2022 |
+| [Computer Architecture and System Software Tutorial](https://cass-kul.github.io/) | Theory ([Website](https://cass-kul.github.io/) - [Youtube](https://www.youtube.com/playlist?list=PLMXWnt556xY4Sexd5FMBc-ZF7pFb2SLnU)) / [Labs]([https://github.com/jprx/mad22-labs](https://cass-kul.github.io/)) | Theory / Lab |
+
 
 # Book Resources
 
